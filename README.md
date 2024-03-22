@@ -1,6 +1,5 @@
 <h1>Use Linux commands to manage file permissions</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this activity, I will demonstrate my experience using Linux commands to manage file permissions.
